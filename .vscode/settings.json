@@ -1,0 +1,18 @@
+{
+    "emeraldwalk.runonsave": {
+        "commands": [
+            {
+                "match": "^(?!.*node_modules).*\\.js$",
+                "cmd": "node \"${workspaceFolder}/.expo/log-save.js\" \"${file}\""
+            }
+        ]
+    },
+    "chat.disableAIFeatures": true,
+    "chat.agent.enabled": false,
+    "chat.commandCenter.enabled": false,
+    "editor.inlineSuggest.enabled": false,
+    "github.copilot.enable": { "*": false },
+    "github.copilot.nextEditSuggestions.enabled": false,
+    "github.copilot.editor.enableCodeActions": false,
+    "github.copilot.renameSuggestions.triggerAutomatically": false
+}
