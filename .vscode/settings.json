@@ -7,7 +7,7 @@
             }
         ]
     },
-    "chat.disableAIFeatures": true,
+    "chat.disableAIFeatures": false,
     "chat.agent.enabled": false,
     "chat.commandCenter.enabled": false,
     "editor.inlineSuggest.enabled": false,
