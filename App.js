@@ -5,9 +5,7 @@ const App=() =>{
   
   return (
     <View style={styles.container}>
-      <Text>Escriu aci el teu nom! </Text>
-      <View></View>
-      <StatusBar style="auto" />
+      <Text>Examen Din 1a AV. </Text>
     </View>
   );
 }
