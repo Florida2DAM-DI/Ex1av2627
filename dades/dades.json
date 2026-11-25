@@ -7,7 +7,7 @@
     "year": 2023,
     "rating": 9.8,
     "description": "Explora Hyrule, resol enigmes i descobreix nous secrets en aquesta aventura.",
-    "image": "zelda.jpg"
+    "image": "../assets/games/zelda.jpg"
   },
   {
     "id": 2,
@@ -17,17 +17,17 @@
     "year": 2011,
     "rating": 9.2,
     "description": "Construeix, explora i sobreviu en un món generat amb blocs.",
-    "image": "minecraft.jpg"
+    "image": "../assets/games/minecraft.jpg"
   },
   {
     "id": 3,
-    "name": "EA Sports FC 25",
+    "name": "EA Sports FC 27",
     "genre": "Esports",
     "platform": "PS5 / Xbox / PC",
-    "year": 2024,
+    "year": 2027,
     "rating": 8.5,
     "description": "Disfruta del futbol amb equips, jugadors i competicions de tot el món.",
-    "image": "fc25.jpg"
+    "image": "../assets/games/fc27.jpg"
   },
   {
     "id": 4,
@@ -37,7 +37,7 @@
     "year": 2022,
     "rating": 9.6,
     "description": "Acompanya Kratos i Atreus en una aventura per la mitologia nòrdica.",
-    "image": "godofwar.jpg"
+    "image": "../assets/games/godofwar.jpg"
   },
   {
     "id": 5,
@@ -47,7 +47,7 @@
     "year": 2017,
     "rating": 9.4,
     "description": "Acompanya Mario en una aventura per diferents regnes per rescatar Peach.",
-    "image": "mario.jpg"
+    "image": "../assets/games/mario.jpg"
   },
   {
     "id": 6,
@@ -57,6 +57,6 @@
     "year": 2020,
     "rating": 8.7,
     "description": "Descobreix Night City en una aventura futurista plena de decisions.",
-    "image": "cyberpunk.jpg"
+    "image": "../assets/games/cyberpunk.jpg"
   }
 ]
